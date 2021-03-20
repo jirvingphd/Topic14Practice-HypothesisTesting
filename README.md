@@ -1,4 +1,4 @@
-# PT-092820 - Week 11 - Hypothesis Testing Practice
+# Topic 14 - Hypothesis Testing Practice
 
 Starting off with more TexMex data.
 
